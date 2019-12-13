@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frend",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahzientek2/frontend.git"
+  },
+  "author": "Sz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarahzientek2/frontend/issues"
+  },
+  "homepage": "https://github.com/sarahzientek2/frontend#readme"
+}
